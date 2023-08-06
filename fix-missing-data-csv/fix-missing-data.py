@@ -1,4 +1,4 @@
-# import libraries
+# import libraries required to read the data and save the output
 import argparse
 import glob
 from pathlib import Path
